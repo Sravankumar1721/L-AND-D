@@ -9,6 +9,7 @@ The Delivery Application is a web application built using Express.js that allows
 - [Installation](#installation)
 - [Modules](#modules)
 - [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -45,9 +46,9 @@ bodyParser: Middleware to parse the request body in Express.
 CORS: Enables cross-origin resource sharing.
 MongoDB: A NoSQL database for storing application data.
 Other internal modules: Custom modules for user, order, and location functionalities.
-Contributing
-Contributions to the Delivery Application are welcome! If you find any issues or have suggestions for improvements, please feel free to open issues or pull requests in this repository.
 
+## Contributing
+Contributions to the Delivery Application are welcome! If you find any issues or have suggestions for improvements, please feel free to open issues or pull requests in this repository.
 When contributing, please follow the existing coding style and conventions, and provide detailed descriptions for your changes.
 
 ## License
