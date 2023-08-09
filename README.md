@@ -7,10 +7,8 @@ The Delivery Application is a web application built using Express.js that allows
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Modules](#modules)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -23,20 +21,14 @@ The Delivery Application is a web application built using Express.js that allows
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine and install 
 
    ```bash
    git clone https://github.com/Sravankumar1721/delivery-application.git
    cd delivery-application
+   npm install
+   npm start
    
-Install the required dependencies using npm:
-npm install
-
-## Usage
-Make sure MongoDB is running on your system or provide the MongoDB connection URI in the application configuration.
-
-Start the application:
-npm start
 Access the application in your browser at http://localhost:3000 or the specified port.
 
 ## Modules
@@ -58,7 +50,7 @@ Contributions to the Delivery Application are welcome! If you find any issues or
 
 When contributing, please follow the existing coding style and conventions, and provide detailed descriptions for your changes.
 
-License
+## License
 This project is licensed under the MIT License.
 
 For any questions or inquiries, please contact Sravan.kumar@tynybay.com
